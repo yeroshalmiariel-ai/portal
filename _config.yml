@@ -1,0 +1,12 @@
+# Jekyll Configuration
+
+# Site settings
+url: "https://yourwebsite.com"
+conten_owner: "yeroshalmiariel-ai"
+title: "Your Title"
+description: "A brief description of your site"
+baseurl: ""
+
+# Build settings
+markdown: kramdown
+permalink: pretty
